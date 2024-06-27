@@ -41,4 +41,4 @@ Door vijanden te verslaan krijg je geld, dat je later kan uitgeven in de shop vo
    [Logboek]: <https://github.com/Wes34840/agp_inlever_template/blob/master/producten/logboek.pdf>
    [GameDesignDoc]: <https://unreal-academy.codecks.io/decks/148-functioneel-ontwerp>
    [RetrospectiveVerslagen]: <https://github.com/Wes34840/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
-   [Prototype]: <https://www.mijnmytheprototype.nl>
+   [Prototype]: <https://github.com/Wes34840/agp_inlever_template/releases/tag/v1.0>
